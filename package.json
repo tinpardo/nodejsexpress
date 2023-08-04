@@ -1,0 +1,20 @@
+{
+  "name": "nodejsexpress",
+  "version": "1.0.0",
+  "description": "archivo inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinpardo/nodejsexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinpardo/nodejsexpress/issues"
+  },
+  "homepage": "https://github.com/tinpardo/nodejsexpress#readme"
+}
